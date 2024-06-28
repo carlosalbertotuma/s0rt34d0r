@@ -4,7 +4,7 @@
 
 <!---<img src="bl4dsc4n.jpge" alt="bl4dsc4n"--->
 
-Programa feito em bash para sorteio de item em uma lista em arquivo.
+Programa feito em bash, para sorteio de um item, em arquivo.
 
 ## ☕ Uso <S0rt34d0r>
 
