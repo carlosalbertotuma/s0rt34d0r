@@ -1,5 +1,7 @@
 # S0rt34d0r v.0.1
 
+![image](https://github.com/carlosalbertotuma/s0rt34d0r/assets/13341724/3a54a2c1-6d05-4fae-8740-0436633478cb)
+
 <!---<img src="bl4dsc4n.jpge" alt="bl4dsc4n"--->
 
 Programa feito em bash para sorteio de item em uma lista em arquivo.
