@@ -11,7 +11,7 @@ Programa feito em bash para sorteio de item em uma lista em arquivo.
 Para usar S0rt34d0r, siga estas etapas:
 
 ```
-baixe o arquivo do git : git clone [https://github.com/carlosalbertotuma/s0rt34d0r.git]
+baixe o arquivo do git : git clone https://github.com/carlosalbertotuma/s0rt34d0r.git
 entre na pasta : cd S0rt34d0r
 de permissão aos arquivos : chmod +x S0rt34d0r.sh
 
