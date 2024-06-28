@@ -6,10 +6,9 @@ Programa feito em bash para sorteio de item em uma lista em arquivo.
 
 ## ☕ Uso <S0rt34d0r>
 
-Para usar Bl4dHunt3r, siga estas etapas:
+Para usar S0rt34d0r, siga estas etapas:
 
 ```
-Instale primeiro os pré requisitos.
 baixe o arquivo do git : git clone [https://github.com/carlosalbertotuma/s0rt34d0r.git]
 entre na pasta : cd S0rt34d0r
 de permissão aos arquivos : chmod +x S0rt34d0r.sh
